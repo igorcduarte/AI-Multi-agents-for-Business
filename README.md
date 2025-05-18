@@ -1,4 +1,4 @@
-# AI-Multi-agents-for-Business
+# AI-Multi-agents-for-Business v1
 
 Este é um sistema multiagente projetado para auxiliar microempresas em suas operações contábeis, tributárias e de planejamento financeiro, bem como apoiar novos empreendedores na criação de suas próprias empresas. Utilizando uma arquitetura baseada em agentes, o sistema oferece soluções automatizadas e personalizadas para atender às necessidades do usuário.
 
